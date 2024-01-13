@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaxiCompany xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CarsList>
+    <Auto>
+      <Model>Kia Rio</Model>
+      <CarNumber>KA2632НР</CarNumber>
+      <Colour>White</Colour>
+      <CarClass>Econom</CarClass>
+      <HaveBabyСhair>false</HaveBabyСhair>
+      <HaveAnimalCage>false</HaveAnimalCage>
+      <IsAvailable>true</IsAvailable>
+    </Auto>
+    <Auto>
+      <Model>Skoda Octavia</Model>
+      <CarNumber>AI2284НВ</CarNumber>
+      <Colour>Blue</Colour>
+      <CarClass>Econom</CarClass>
+      <HaveBabyСhair>false</HaveBabyСhair>
+      <HaveAnimalCage>false</HaveAnimalCage>
+      <IsAvailable>true</IsAvailable>
+    </Auto>
+    <Auto>
+      <Model>Kia Optima</Model>
+      <CarNumber>КА3516НР</CarNumber>
+      <Colour>White</Colour>
+      <CarClass>Econom</CarClass>
+      <HaveBabyСhair>false</HaveBabyСhair>
+      <HaveAnimalCage>false</HaveAnimalCage>
+      <IsAvailable>true</IsAvailable>
+    </Auto>
+    <Auto>
+      <Model>VW Transporter</Model>
+      <CarNumber>CВ9375НВ</CarNumber>
+      <Colour>White</Colour>
+      <CarClass>MiniBus</CarClass>
+      <HaveBabyСhair>false</HaveBabyСhair>
+      <HaveAnimalCage>false</HaveAnimalCage>
+      <IsAvailable>true</IsAvailable>
+    </Auto>
+    <Auto>
+      <Model>Toyota Camry</Model>
+      <CarNumber>КА8831</CarNumber>
+      <Colour>Grey</Colour>
+      <CarClass>Comfort</CarClass>
+      <HaveBabyСhair>false</HaveBabyСhair>
+      <HaveAnimalCage>false</HaveAnimalCage>
+      <IsAvailable>true</IsAvailable>
+    </Auto>
+    <Auto>
+      <Model>Hyundai Elantra</Model>
+      <CarNumber>КА0380</CarNumber>
+      <Colour>Blue</Colour>
+      <CarClass>Comfort</CarClass>
+      <HaveBabyСhair>false</HaveBabyСhair>
+      <HaveAnimalCage>false</HaveAnimalCage>
+      <IsAvailable>true</IsAvailable>
+    </Auto>
+    <Auto>
+      <Model>Mercedes-Maybach S-Class</Model>
+      <CarNumber>КИ8888ЕВ</CarNumber>
+      <Colour>Black</Colour>
+      <CarClass>Business</CarClass>
+      <HaveBabyСhair>false</HaveBabyСhair>
+      <HaveAnimalCage>false</HaveAnimalCage>
+      <IsAvailable>true</IsAvailable>
+    </Auto>
+    <Auto>
+      <Model>BMW 7 Series</Model>
+      <CarNumber>КА7777НР</CarNumber>
+      <Colour>Black</Colour>
+      <CarClass>Business</CarClass>
+      <HaveBabyСhair>false</HaveBabyСhair>
+      <HaveAnimalCage>false</HaveAnimalCage>
+      <IsAvailable>true</IsAvailable>
+    </Auto>
+    <Auto>
+      <Model>Skoda fabia</Model>
+      <CarNumber>КА4253НК</CarNumber>
+      <Colour>Black</Colour>
+      <CarClass>Econom</CarClass>
+      <HaveBabyСhair>true</HaveBabyСhair>
+      <HaveAnimalCage>true</HaveAnimalCage>
+      <IsAvailable>true</IsAvailable>
+    </Auto>
+  </CarsList>
+  <OrderList />
+</TaxiCompany>

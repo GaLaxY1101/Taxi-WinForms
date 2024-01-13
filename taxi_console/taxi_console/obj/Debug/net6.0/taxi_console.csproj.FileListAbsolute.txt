@@ -1,0 +1,15 @@
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\bin\Debug\net6.0\taxi_console.exe
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\bin\Debug\net6.0\taxi_console.deps.json
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\bin\Debug\net6.0\taxi_console.runtimeconfig.json
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\bin\Debug\net6.0\taxi_console.dll
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\bin\Debug\net6.0\taxi_console.pdb
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\taxi_console.csproj.AssemblyReference.cache
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\taxi_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\taxi_console.AssemblyInfoInputs.cache
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\taxi_console.AssemblyInfo.cs
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\taxi_console.csproj.CoreCompileInputs.cache
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\taxi_console.dll
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\refint\taxi_console.dll
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\taxi_console.pdb
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\taxi_console.genruntimeconfig.cache
+D:\Education\Programming\Term3\Саша\Taxi\taxi_console\taxi_console\obj\Debug\net6.0\ref\taxi_console.dll
